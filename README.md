@@ -8,14 +8,13 @@
 
 ### Hardware / Modules
 
+- **RC522 RFID Reader Module**
+
 ![RC522 RFID Reader Module](https://lastminuteengineers.com/wp-content/uploads/arduino/RC522-RFID-Reader-Writer-Module-Pinout.png)
 
-- RC522 RFID Reader Module
+- **NodeMCU**
 
 ![NodeMCU](https://components101.com/sites/default/files/component_pin/NodeMCU-ESP8266-Pinout.jpg)
-
-- NodeMCU
-
 
 ## Installation
 
